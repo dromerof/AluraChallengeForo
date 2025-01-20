@@ -1,4 +1,4 @@
-# Foro Hub - Challenge Back End
+# Foro - Challenge BackEnd
 
 ¡Bienvenido al Challenge BackEnd de Alura!
 
