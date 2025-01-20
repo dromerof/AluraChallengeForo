@@ -28,8 +28,7 @@ Nuestra API permite realizar las siguientes acciones:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/Korenvais/foro-hub.git
-   cd foro-hub
+   git clone https://github.com/dromerof/AluraChallengeForo.git
    ```
 
 2. **Configurar la base de datos:**
